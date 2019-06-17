@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-framework-samples" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring" target="1.8" />
       <module name="spring-4.3" target="1.8" />
@@ -292,6 +300,7 @@
       <module name="spring-data-jdbc" target="1.8" />
       <module name="spring-data-jpa" target="1.8" />
       <module name="spring-data-redis" target="1.8" />
+      <module name="spring-framework-samples" target="1.5" />
       <module name="spring-samples" target="1.5" />
     </bytecodeTargetLevel>
   </component>
