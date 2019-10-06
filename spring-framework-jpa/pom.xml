@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>spring-framework-samples</artifactId>
+        <groupId>io.github.futurewl</groupId>
+        <version>190921</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>spring-framework-jpa</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>advanced-criteria</module>
+        <module>advanced-mappings</module>
+        <module>customer-support-v15</module>
+        <module>customer-support-v16</module>
+        <module>customer-support-v17</module>
+        <module>customer-support-v18</module>
+        <module>entity-mappings</module>
+        <module>enums-dates-lobs</module>
+        <module>search-engine</module>
+<!--        <module>spring-data-jpa</module>-->
+<!--        <module>spring-jpa</module>-->
+    </modules>
+
+</project>

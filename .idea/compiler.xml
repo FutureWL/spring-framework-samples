@@ -6,10 +6,62 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-framework-samples" />
+        <module name="enums-dates-lobs" />
+        <module name="authentication-app" />
+        <module name="publish-subscribe" />
+        <module name="advanced-mappings" />
+        <module name="customer-support-v11" />
+        <module name="model-view-controller" />
+        <module name="entity-mappings" />
+        <module name="advanced-criteria" />
+        <module name="search-engine" />
+        <module name="customer-support-v21" />
+        <module name="spring-java-config" />
+        <module name="spring-one-context-xml-config" />
+        <module name="discussion-board" />
+        <module name="localized-application" />
+        <module name="spring-forms" />
+        <module name="spring-xml-config" />
+        <module name="customer-support-v20" />
+        <module name="web-service" />
+        <module name="oauth-client" />
+        <module name="amqp-messaging" />
+        <module name="customer-support-v19" />
+        <module name="customer-support-v18" />
+        <module name="customer-support-v17" />
+        <module name="spring-hybrid-config" />
+        <module name="customer-support-v15" />
+        <module name="customer-support-v14" />
+        <module name="websocket-messaging" />
+        <module name="customer-support-v12" />
+        <module name="customer-support-v16" />
+        <module name="customer-support-v10" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="advanced-criteria" target="1.8" />
+      <module name="advanced-mappings" target="1.8" />
+      <module name="amqp-messaging" target="1.8" />
+      <module name="authentication-app" target="1.8" />
+      <module name="customer-support-v10" target="1.8" />
+      <module name="customer-support-v11" target="1.8" />
+      <module name="customer-support-v12" target="1.8" />
+      <module name="customer-support-v14" target="1.8" />
+      <module name="customer-support-v15" target="1.8" />
+      <module name="customer-support-v16" target="1.8" />
+      <module name="customer-support-v17" target="1.8" />
+      <module name="customer-support-v18" target="1.8" />
+      <module name="customer-support-v19" target="1.8" />
+      <module name="customer-support-v20" target="1.8" />
+      <module name="customer-support-v21" target="1.8" />
+      <module name="discussion-board" target="1.8" />
+      <module name="entity-mappings" target="1.8" />
+      <module name="enums-dates-lobs" target="1.8" />
+      <module name="localized-application" target="1.8" />
+      <module name="model-view-controller" target="1.8" />
+      <module name="oauth-client" target="1.8" />
+      <module name="publish-subscribe" target="1.8" />
+      <module name="search-engine" target="1.8" />
       <module name="spring" target="1.8" />
       <module name="spring-4.3" target="1.8" />
       <module name="spring-4.3-aop" target="1.8" />
@@ -300,8 +352,22 @@
       <module name="spring-data-jdbc" target="1.8" />
       <module name="spring-data-jpa" target="1.8" />
       <module name="spring-data-redis" target="1.8" />
+      <module name="spring-forms" target="1.8" />
+      <module name="spring-framework" target="1.5" />
+      <module name="spring-framework-i18n" target="1.5" />
+      <module name="spring-framework-jpa" target="1.5" />
+      <module name="spring-framework-mq" target="1.5" />
+      <module name="spring-framework-mvc" target="1.5" />
       <module name="spring-framework-samples" target="1.5" />
+      <module name="spring-framework-security" target="1.5" />
+      <module name="spring-hybrid-config" target="1.8" />
+      <module name="spring-java-config" target="1.8" />
+      <module name="spring-jpa" target="1.8" />
+      <module name="spring-one-context-xml-config" target="1.8" />
       <module name="spring-samples" target="1.5" />
+      <module name="spring-xml-config" target="1.8" />
+      <module name="web-service" target="1.8" />
+      <module name="websocket-messaging" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

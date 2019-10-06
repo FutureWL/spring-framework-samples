@@ -2,8 +2,44 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/advanced-criteria/advanced-criteria.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/advanced-criteria/advanced-criteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/advanced-mappings/advanced-mappings.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/advanced-mappings/advanced-mappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mq/amqp-messaging/amqp-messaging.iml" filepath="$PROJECT_DIR$/spring-framework-mq/amqp-messaging/amqp-messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-security/authentication-app/authentication-app.iml" filepath="$PROJECT_DIR$/spring-framework-security/authentication-app/authentication-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/customer-support-v10/customer-support-v10.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/customer-support-v10/customer-support-v10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/customer-support-v11/customer-support-v11.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/customer-support-v11/customer-support-v11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-i18n/customer-support-v12/customer-support-v12.iml" filepath="$PROJECT_DIR$/spring-framework-i18n/customer-support-v12/customer-support-v12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/customer-support-v14/customer-support-v14.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/customer-support-v14/customer-support-v14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/customer-support-v15/customer-support-v15.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/customer-support-v15/customer-support-v15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/customer-support-v16/customer-support-v16.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/customer-support-v16/customer-support-v16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/customer-support-v17/customer-support-v17.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/customer-support-v17/customer-support-v17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/customer-support-v18/customer-support-v18.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/customer-support-v18/customer-support-v18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-security/customer-support-v19/customer-support-v19.iml" filepath="$PROJECT_DIR$/spring-framework-security/customer-support-v19/customer-support-v19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-security/customer-support-v20/customer-support-v20.iml" filepath="$PROJECT_DIR$/spring-framework-security/customer-support-v20/customer-support-v20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-security/customer-support-v21/customer-support-v21.iml" filepath="$PROJECT_DIR$/spring-framework-security/customer-support-v21/customer-support-v21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/discussion-board/discussion-board.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/discussion-board/discussion-board.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/entity-mappings/entity-mappings.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/entity-mappings/entity-mappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/enums-dates-lobs/enums-dates-lobs.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/enums-dates-lobs/enums-dates-lobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-i18n/localized-application/localized-application.iml" filepath="$PROJECT_DIR$/spring-framework-i18n/localized-application/localized-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/model-view-controller/model-view-controller.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/model-view-controller/model-view-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-security/oauth-client/oauth-client.iml" filepath="$PROJECT_DIR$/spring-framework-security/oauth-client/oauth-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mq/publish-subscribe/publish-subscribe.iml" filepath="$PROJECT_DIR$/spring-framework-mq/publish-subscribe/publish-subscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/search-engine/search-engine.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/search-engine/search-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/spring-forms/spring-forms.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/spring-forms/spring-forms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-framework.iml" filepath="$PROJECT_DIR$/spring-framework/spring-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-i18n/spring-framework-i18n.iml" filepath="$PROJECT_DIR$/spring-framework-i18n/spring-framework-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/spring-framework-jpa.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/spring-framework-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mq/spring-framework-mq.iml" filepath="$PROJECT_DIR$/spring-framework-mq/spring-framework-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/spring-framework-mvc.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/spring-framework-mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-samples.iml" filepath="$PROJECT_DIR$/spring-framework-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-security/spring-framework-security.iml" filepath="$PROJECT_DIR$/spring-framework-security/spring-framework-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-hybrid-config/spring-hybrid-config.iml" filepath="$PROJECT_DIR$/spring-framework/spring-hybrid-config/spring-hybrid-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-java-config/spring-java-config.iml" filepath="$PROJECT_DIR$/spring-framework/spring-java-config/spring-java-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-one-context-xml-config/spring-one-context-xml-config.iml" filepath="$PROJECT_DIR$/spring-framework/spring-one-context-xml-config/spring-one-context-xml-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-samples.iml" filepath="$PROJECT_DIR$/spring-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-xml-config/spring-xml-config.iml" filepath="$PROJECT_DIR$/spring-framework/spring-xml-config/spring-xml-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/web-service/web-service.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/web-service/web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-mq/websocket-messaging/websocket-messaging.iml" filepath="$PROJECT_DIR$/spring-framework-mq/websocket-messaging/websocket-messaging.iml" />
     </modules>
   </component>
 </project>
