@@ -12,24 +12,24 @@
         <module name="advanced-mappings" />
         <module name="customer-support-v11" />
         <module name="model-view-controller" />
+        <module name="spring-config-xml" />
         <module name="entity-mappings" />
         <module name="advanced-criteria" />
         <module name="search-engine" />
         <module name="customer-support-v21" />
-        <module name="spring-java-config" />
-        <module name="spring-one-context-xml-config" />
+        <module name="spring-config-hybrid" />
+        <module name="spring-config-java" />
         <module name="discussion-board" />
         <module name="localized-application" />
         <module name="spring-forms" />
-        <module name="spring-xml-config" />
         <module name="customer-support-v20" />
         <module name="web-service" />
         <module name="oauth-client" />
+        <module name="spring-config-one-context-xml" />
         <module name="amqp-messaging" />
         <module name="customer-support-v19" />
         <module name="customer-support-v18" />
         <module name="customer-support-v17" />
-        <module name="spring-hybrid-config" />
         <module name="customer-support-v15" />
         <module name="customer-support-v14" />
         <module name="websocket-messaging" />
@@ -347,6 +347,10 @@
       <module name="spring-cloud-ribbon" target="1.8" />
       <module name="spring-cloud-sleuth" target="1.8" />
       <module name="spring-cloud-zuul" target="1.8" />
+      <module name="spring-config-hybrid" target="1.8" />
+      <module name="spring-config-java" target="1.8" />
+      <module name="spring-config-one-context-xml" target="1.8" />
+      <module name="spring-config-xml" target="1.8" />
       <module name="spring-data" target="1.8" />
       <module name="spring-data-elasticsearch" target="1.8" />
       <module name="spring-data-jdbc" target="1.8" />
@@ -360,12 +364,8 @@
       <module name="spring-framework-mvc" target="1.5" />
       <module name="spring-framework-samples" target="1.5" />
       <module name="spring-framework-security" target="1.5" />
-      <module name="spring-hybrid-config" target="1.8" />
-      <module name="spring-java-config" target="1.8" />
       <module name="spring-jpa" target="1.8" />
-      <module name="spring-one-context-xml-config" target="1.8" />
       <module name="spring-samples" target="1.5" />
-      <module name="spring-xml-config" target="1.8" />
       <module name="web-service" target="1.8" />
       <module name="websocket-messaging" target="1.8" />
     </bytecodeTargetLevel>

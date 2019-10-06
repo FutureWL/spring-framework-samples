@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.futurewl</groupId>
-    <artifactId>spring-java-config</artifactId>
+    <artifactId>spring-config-xml</artifactId>
     <version>190921</version>
     <packaging>war</packaging>
 
@@ -120,7 +120,7 @@
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-core</artifactId>
             <version>${log4j.version}</version>
-            <scope>compile</scope>
+            <scope>runtime</scope>
         </dependency>
 
         <dependency>

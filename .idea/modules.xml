@@ -25,6 +25,10 @@
       <module fileurl="file://$PROJECT_DIR$/spring-framework-security/oauth-client/oauth-client.iml" filepath="$PROJECT_DIR$/spring-framework-security/oauth-client/oauth-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-mq/publish-subscribe/publish-subscribe.iml" filepath="$PROJECT_DIR$/spring-framework-mq/publish-subscribe/publish-subscribe.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-jpa/search-engine/search-engine.iml" filepath="$PROJECT_DIR$/spring-framework-jpa/search-engine/search-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-config-hybrid/spring-config-hybrid.iml" filepath="$PROJECT_DIR$/spring-framework/spring-config-hybrid/spring-config-hybrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-config-java/spring-config-java.iml" filepath="$PROJECT_DIR$/spring-framework/spring-config-java/spring-config-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-config-one-context-xml/spring-config-one-context-xml.iml" filepath="$PROJECT_DIR$/spring-framework/spring-config-one-context-xml/spring-config-one-context-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-config-xml/spring-config-xml.iml" filepath="$PROJECT_DIR$/spring-framework/spring-config-xml/spring-config-xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/spring-forms/spring-forms.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/spring-forms/spring-forms.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-framework.iml" filepath="$PROJECT_DIR$/spring-framework/spring-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-i18n/spring-framework-i18n.iml" filepath="$PROJECT_DIR$/spring-framework-i18n/spring-framework-i18n.iml" />
@@ -33,11 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/spring-framework-mvc.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/spring-framework-mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-samples.iml" filepath="$PROJECT_DIR$/spring-framework-samples.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-security/spring-framework-security.iml" filepath="$PROJECT_DIR$/spring-framework-security/spring-framework-security.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-hybrid-config/spring-hybrid-config.iml" filepath="$PROJECT_DIR$/spring-framework/spring-hybrid-config/spring-hybrid-config.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-java-config/spring-java-config.iml" filepath="$PROJECT_DIR$/spring-framework/spring-java-config/spring-java-config.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-one-context-xml-config/spring-one-context-xml-config.iml" filepath="$PROJECT_DIR$/spring-framework/spring-one-context-xml-config/spring-one-context-xml-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-samples.iml" filepath="$PROJECT_DIR$/spring-samples.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-xml-config/spring-xml-config.iml" filepath="$PROJECT_DIR$/spring-framework/spring-xml-config/spring-xml-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-mvc/web-service/web-service.iml" filepath="$PROJECT_DIR$/spring-framework-mvc/web-service/web-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework-mq/websocket-messaging/websocket-messaging.iml" filepath="$PROJECT_DIR$/spring-framework-mq/websocket-messaging/websocket-messaging.iml" />
     </modules>

@@ -12,10 +12,10 @@
     <artifactId>spring-framework</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>spring-hybrid-config</module>
-        <module>spring-java-config</module>
-        <module>spring-one-context-xml-config</module>
-        <module>spring-xml-config</module>
+        <module>spring-config-hybrid</module>
+        <module>spring-config-java</module>
+        <module>spring-config-one-context-xml</module>
+        <module>spring-config-xml</module>
     </modules>
 
 </project>

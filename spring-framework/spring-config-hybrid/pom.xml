@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.futurewl</groupId>
-    <artifactId>spring-one-context-xml-config</artifactId>
+    <artifactId>spring-config-hybrid</artifactId>
     <version>190921</version>
     <packaging>war</packaging>
 
